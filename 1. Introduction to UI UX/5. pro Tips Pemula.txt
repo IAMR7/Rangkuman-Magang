@@ -1,0 +1,21 @@
+Tips UX Design Pemula
+
+    1. Mencari permasalahan di sekitar
+    2. Menggali lebih dalam untuk permasalahan yang dihadapi oleh user
+    3. Membuat solusi desain
+    4. Mengevaluasi setiap solusi dengan Usability Testing
+    5. Dokumentasikan setiap proses dan tulis di media sosial medium sebagai portofolio
+
+Selalu ilangi proses hingga menjadi kebiasaan
+
+Tips UI Design Pemula
+
+    1. Mulai dari aplikasi yang paling disukai
+    2. Desain sama persis dengan aplikasi tersebut
+    3. Identifikasi setiap aturan UI nya
+    4. Mengulangi terus hingga menguasai
+    5. Mulai membuat eksplorasi desain UI
+
+REFERENSI BUKU UNTUK UI DESIGNER PEMULA :
+Refactoring UI
+By : Adam Wathan & Steve Schoger

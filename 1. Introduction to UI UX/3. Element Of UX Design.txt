@@ -1,0 +1,33 @@
+Ada konsep "The Five Planes of UX Design"
+
+- Surface
+
+    Menetapkan sensory design dengan menetukan susunan informasi yang disusun secara visual dan menentukan respon sistem pada saat melakukan aksi
+
+    Tools : Marvel, protopie, frammer
+
+- Skeleton
+
+    Mulai menetapkan interface design, menetapkan information design dan menetapkan navigation design
+
+    Tools : Sketch, Figma, Adobe XD
+
+- Structure
+
+    Menentukan interaction design dengan mendeskripsikan bagaimana merespon aktivitas user dan menentukan model information architecture dengan mendesain informasi yang diklasifikasi menjadi beberapa kelompok agar dapat memahami struktur produk dengan mudah.
+
+    Tools : Whiteboard, overflow, winshikap
+
+- Scope
+
+    Menetapkan spesifikasi fungsional (menentukan kemampuan sistem dalam menunjang fungsional produk).
+    Serta menetapkan kriteria konten dengan menjelaskan bagaimana sistem dapat melakukan komunikasi kepada user dan memberikan detail strategi informasi yang sesuai dengan brand communication.
+
+    Tools : Notion, JIRA, XConfluence
+
+- Strategy
+
+    Pada tahap ini menentukan kebutuhan user (apa masalahnya dan siapa target user nya serta apa saja kebutuhan mereka ?).
+    Serta menetapkan objektif product/business (Identifikasi solusi yang dapat mencapai tujuan bisnis)
+
+    Tools : Notion, JIRA, XConfluence

@@ -1,0 +1,73 @@
+- User Centered Design
+
+    Proses UX Design yang utama dengan mempusatkan user sebagai acuan utama.
+
+    alurnya = ( identify Need -> Specify Context of Use -> Specify Requirement -> Produce Solution Design -> Evaluate Design )
+    Dibuat secara iterasi selama produk masih ada
+
+- Design Thinking
+
+    Alurnya (tidak linier atau bebas urutannya mulai dari emphatise) :
+
+    1.) Emphatise
+
+        Proses empati kepada user dan mencari tau kebutuhan user
+
+    2.) Define
+
+        Menetapkan poin poin dari empati sebelumnya
+
+    3.) Ideate
+
+        Mulai membuat sketching wireframe
+
+    4.) Prototype
+
+        Membuat UI dan prototyping nya
+
+    5.) testing
+
+        Mengevaluasi hasil desain
+
+- Design Sprint (2.0 - 4 hari)
+
+    Sebuah rangkaian aktivitas untuk mendefiniskan sebuah produk.
+
+    1.) Monday
+
+        Melakukan mapping kebutuhan user dan feedback user
+        Melakukan sketch crazy 8
+
+    2.) Tuesday
+
+        Decide ide-ide atau menseleksi ide terbaik
+        Membuat storyboard alur produk seperti apa
+
+    3.) Wednesday
+
+        Membuat prototype nya untuk di test dihari kamis/selanjutnya
+
+    4.) Thursday
+
+        Mendapatkan hasil feedback dari test
+
+        Kapan menggunakan Design Sprint ? pada saat membuat produk baru yang membutuhkan brainstorming. Sebagai acuan brainstorming awal. Bisa produk baru atau fitur baru.
+ 
+- Lean UX
+
+    New Ideas -> Develop -> Feedback
+
+    Hal yang perlu diingat :
+
+        - Tidak semua design process harus dilakukan di setiap kondisi dan situasi
+        - Design Process hanya mempermudah dalam mencari solusi
+        - Dalam sesi workshop harus saling menghormati
+        - Usahakan ada sponsor dalam sesi workshop
+
+Dalam product management terdapat 3 hal penting :
+
+1. Bisnis
+2. IT
+3. User
+
+Jika ke 3 komponen ini berhasil setara levelnya , terdapat sweet spot area.

@@ -1,0 +1,40 @@
+User Interface tidak melulu soal tampilan produk digital. Bisa untuk mesin seperti microwave, blender dan juga perangkat lunak. Jika digital terdapat moodboard di dalamnya seperti gambar gambar atau kumpulan warna.
+
+Usr experience merupakan sebuah proses yang mendukung perilaku kepenggunaan dari interaksi pengguna dengan riset.
+
+UX = Apa yang user rasakan ketika menggunakan produk.
+UI = Apa yang user lihat dan apa yang user lakukan (respon sistem).
+
+Istilah UX Design ditemukan oleh Don Norman pada 1995.
+Terdapat lembaga sertifikasi di US khusus dari Don Norman yang bernama "Nielson Norman".
+
+Disiplin ilmu UI UX Designer cakupannya lebih besar, mencakup UX, komunikasi, dan interaksi desain.
+
+Disiplin ilmu UI terdapat didalam UX, dan disiplin dalam UI harus menguasai ilmu visual karena produk dinikmati secara visual. Jadi tidak hanya UX saja yang harus dikuasai dengan riset, UI UX Designer juga harus menguasai bagaimana penerapan visualnya.
+
+Yang perlu dikuasai oleh UX Designer :
+    - User Research = kemampuan utama untuk riset kepada user (interview, kuisioner online, survey, observasi, dll)
+    - Information Architecture = terdapat informasi yang harus diklasifikasi oleh seorang UX Designer
+    - Personas = Pengelompokkan karakteristik dan kriteria user
+    - Usability Testing = UX Designer harus test tingkat kepenggunaan hasil desain kepada pengguna
+    - Journey Mapping = Alur aplikasi yang terdapat mood/perasaan user
+    - Task Analysis = Menganalisa kegiatan user terhadap produk
+    - Usability Metric = Satuan ukuran tingkat keberhasilan dari produk tersebut (Skala liker 1-5)
+    - Wireframing = Wireframe adalah rancangan kasar dari UX Designer untuk mengkomunikasikan kepada UI Designer
+    Yang perlu dikuasai oleh UI Designer :
+    - UI trends = Harus menyesuaikan style dengan perkembangan zaman
+    - UI Styleguide = Membuat rangkaian komponen UI yang dibuat agar konsisten
+    - UI Mockup = Aktivitas utama membuat desain mockup produk
+    - Prototyping = Mensimulasikan produk agar bisa di clik menggunakan tols design (Figma, Marvel)
+    - Design Handoff = Mendeliver atau mengirim hasil desain kepada tim developer (Figma, Zeplin)
+    - User Flow = Rangkaian alur sebuah fitur sistem- Design Ops = Melihat konsistensi dari komponen yang sudah ada dan menyusun nya lagi agar lebih rapih
+    - Interaction Design = Sebuah umpan balik interaksi yang dirasakan oleh user seperti getaran, handshake, mencubit layar, dll
+
+UI UX Designer lebih fokus terhadap human
+Sedangkan Developer lebih fokus terhadap teknologinya
+
+Contoh UI UX dalam kehidupan sehari-hari :
+Botol Saos
+Botol saos kaca memiliki visual yang bagus, bahan yang kokoh, bagus, namun ketika user menuangkan cukup susah apalagi jika isinya tinggal sedikit, butuh effort lebih dari user dalam mengeluarkan isinya (UI)
+Kemasan saos yang plastik dalam penggunaanya lebih mudah, sekali ditekan langsung keluar (UX)
+Produk seiring berjalannya waktu dan perkembangan zaman memiliki evolusinya masing masing.

@@ -1,0 +1,17 @@
+Learning Objectives
+===============================================
+- Memahami apa itu User Interface Design
+- Memahami apa itu User Experience Design
+- Memahami bagaimana implementasi UI & UX pada kehidupan sehari-hari
+- Mengetahui beberapa faktor pada Element of UX Design
+- Mengetahui dasar-dasar dari UX Design Process
+- Mengetahui tools yang digunakan untuk UI/UX Design
+- Mengatahui Tips untuk seorang pemula dalam UI & UX Design
+
+
+Topics
+================================================
+- Apa itu UI & UX Design?
+- Element of UX Design
+- UX Design Process
+- Tips untuk Pemula

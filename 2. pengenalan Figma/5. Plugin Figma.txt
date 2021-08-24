@@ -1,0 +1,1 @@
+Figma juga memiliki extension sendiri seperti di chrome, plugin plugin dari developer yang berkontribusi. Caranya tinggal pilih plugin yang sesuai dengan kebutuhan lalu klik install

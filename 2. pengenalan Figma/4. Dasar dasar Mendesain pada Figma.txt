@@ -1,0 +1,6 @@
+Dalam medesain dapat membuat frame terlebih dahulu, dapat menekan tombol A atau F
+Frame yang dipilih didesuaikan ukurannya apakah ingin mendesain smartphone, tablet, desktop app atau website.
+
+Side menu sebelah kanan adalah untuk styling dan prototyping.
+
+Layer = tumpukan

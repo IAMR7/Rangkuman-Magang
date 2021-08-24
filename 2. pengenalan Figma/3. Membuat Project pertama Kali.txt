@@ -1,0 +1,6 @@
+Menggunakan figma desktop
+
+========= Menu utama ==========
+
+Ada tools Bar di paling atas
+Sebelah kiri ada side menu layering

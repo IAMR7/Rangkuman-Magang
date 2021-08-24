@@ -1,0 +1,20 @@
+========= PEMBELAJARAN ============
+
+Memahami dasar penggunaan aplikasi Figma, mempraktikkan dasar-dasar cara mengoperasikan, dan mendesain pada aplikasi Figma.
+
+Learning Objectives
+
+    - Mengetahui cara mendaftar dan mengakses aplikasi Figma
+    - Mengetahui perbedaan Figma Design & Figma Jam
+    - Mempraktekan cara membuat Shape & Styling
+    - Memahami konsep Layering
+    - Mempraktekan cara membuat Typography & Styling
+    - Mengetahui & mempraktekan perbedaan Frame & Group
+    - Mempraktekan cara membuat Component
+    - Mempraktekan cara membuat Variant
+    - Mengetahui & mempraktekan cara install Plugin pada Figma
+Topics
+    - Intro to Figma
+    - Membuat Project Figma untuk Pertama Kali
+    - Mendesain pada Figma
+    - Instalasi Plugin

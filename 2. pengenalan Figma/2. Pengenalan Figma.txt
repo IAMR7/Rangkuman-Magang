@@ -1,0 +1,11 @@
+1. Pengenalan Figma
+2. Membuat Project Pertama Kali
+3. Dasar-dasar Mendesain pada Figma
+4. Plugin Figma
+
+==================================================================
+
+1. Pengenalan Figma
+
+Why Figma ?
+Karena Figma aplikasi berbasis cloud base yang mana project file tersimpan di cloud, dapat berkolaborasi dengan tim.

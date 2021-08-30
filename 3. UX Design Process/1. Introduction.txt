@@ -1,0 +1,13 @@
+Learning Objectives
+    - Mengetahui dasar tentang UX Design Process
+    - Mengetahui macam-macam UX Design Process
+    - Memahami apa itu Design Thinking
+    - Memahami proses Empathise
+    - Memahami proses Define
+    - Memahami proses Ideate
+    - Memahami proses Prototyping
+    - Memahami proses Testing
+
+Topics
+    - Apa itu UX Design Process
+    - Design Thinking Process

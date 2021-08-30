@@ -1,0 +1,8 @@
+Tujuan dari Emphatise
+= Membantu Designer dalam mencari tahu pandangan dan kebutuhan dari target usernya dengan research sebelum mendefinisikan problem statement dan melakukan ideation.
+
+Apa aja yang dilakukan :
+1. Menganalisis data analitis
+2. Melakukan survey pengguna
+3. Melakukan In-depth Interview (IDI)
+4. Melakukan FGD (Focus Group Discussion).

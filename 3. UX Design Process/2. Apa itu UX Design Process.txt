@@ -1,0 +1,28 @@
+1. Apa itu UX Design Process ?
+2. Design Thinking
+
+What is UX Design Process ?
+= Proses iterasi desain untuk dapat meningkatkan usability dan interface design yang lebih optimal
+
+Hal yang dilakukan di dalam UX Design Process (iterasi)
+    1. Mencari permasalahan dari aspek user/bisnis
+    2. Mengumpulkan dan menysuun data dari user/bisnis
+    3. Brainstorming ide dari permasalahan dan data yang ada
+    4. Membuat solusi desain
+    5. Melakukan tes dari solusi desain
+
+Beberapa stakeholder yang terlibat :
+    - Design Team
+    - Product Team
+    - Software Engineer
+    - Sponsor (Manager/Direktur/Decision Maker)
+    -------------------------------------------
+    Bisnis : Product Team, Sponsor
+    IT : Software Engineer
+    User : Design Team
+
+Macam-macam UX Design Process :
+    1. User Centered Design
+    2. Design Thinking (Materi utama)
+    3. Design Sprint
+    4. Lean UX

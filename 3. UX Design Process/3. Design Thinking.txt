@@ -1,0 +1,19 @@
+Apa itu Design Thinking ?
+= Design Thinking is a human-centered approach to inovation that draws from the designer's toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success
+--- Tim Brown - IDEO ---
+
+*IDEO adalah sebuah perusahaan consultan design dari amerika.
+
+Design Thinking adalah evolusi dari proses Human centered Design yang digunakan untuk menciptakan inovasi dalam product design.
+
+Fase fasenya (Non-Linier) :
+Emphatizing -> Defining -> Ideating -> Prototyping -> Testing
+
+Fase fasenya Human Centeerd Design :
+Diamond 1 (Discover -> Define) -> Diamond 2 (Design -> Prototype & Test) -> Plan & Implement
+
+Peralatan yang digunakan dalam Design Thinking :
+    1. Sticky Note
+    2. Notebook
+    3. Papan Tulis (Untuk menempelkan sticky note)
+    4. ruangan Kondusif (Untuk konsentrasi penuh)
